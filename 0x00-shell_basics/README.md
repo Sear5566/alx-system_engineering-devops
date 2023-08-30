@@ -1,1 +1,1 @@
-#Each script in this project is a command
+# Each script in this project is a command
